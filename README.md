@@ -1,5 +1,17 @@
 # Productivity Tracker Chrome Extension
 
+*COMPANY*:CODTECH ITSOLUTIONS
+
+*NAME*: Amarjeet Mistri
+
+*INTERN ID*: CT04WS26
+
+*DOMAIN*: React.js Web Development
+
+*DURATION*: 4 WEEKS
+
+*MENTOR*: NEELA SANTOSH
+
 A Chrome extension built with React to track and enhance personal productivity by monitoring browsing habits, setting goals, and managing focus sessions.
 
 ![Image](https://github.com/user-attachments/assets/95a92d61-6ce8-43f0-9e02-aea08bc443b2)
