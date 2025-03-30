@@ -1,6 +1,6 @@
 # Productivity Tracker Chrome Extension
 
-*COMPANY*:CODTECH ITSOLUTIONS
+*COMPANY*: CODTECH ITSOLUTIONS
 
 *NAME*: Amarjeet Mistri
 
