@@ -147,7 +147,4 @@ All data is stored locally in your browser using Chrome's storage API. No data i
 - Data export/import for backup
 - Task management integration
 - Custom timer durations
-
-## License
-
-MIT
+  
