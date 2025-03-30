@@ -12,6 +12,8 @@
 
 *MENTOR*: NEELA SANTOSH
 
+
+## Features
 A Chrome extension built with React to track and enhance personal productivity by monitoring browsing habits, setting goals, and managing focus sessions.
 
 ![Image](https://github.com/user-attachments/assets/95a92d61-6ce8-43f0-9e02-aea08bc443b2)
@@ -24,7 +26,6 @@ A Chrome extension built with React to track and enhance personal productivity b
 ![Productivity Tracker](public/icon.png)
 
 
-## Features
 
 ### Website Time Tracking
 - Monitors time spent on different websites in real-time
