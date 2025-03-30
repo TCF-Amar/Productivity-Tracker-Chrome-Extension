@@ -3,7 +3,9 @@
 A Chrome extension built with React to track and enhance personal productivity by monitoring browsing habits, setting goals, and managing focus sessions.
 
 ![Image](https://github.com/user-attachments/assets/95a92d61-6ce8-43f0-9e02-aea08bc443b2)
+
 ![Image](https://github.com/user-attachments/assets/b8908252-40ec-487c-8fe8-c4cb3edcb0e9)
+
 ![Image](https://github.com/user-attachments/assets/c791c3f3-ed5f-4a65-ad37-f358900a4c6f)
 
 
